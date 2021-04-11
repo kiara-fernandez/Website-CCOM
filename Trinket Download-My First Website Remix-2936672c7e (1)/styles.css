@@ -1,0 +1,109 @@
+nav ul li {
+  display:inline;
+  margin-left:10px;
+  margin-right:10px;
+  font-family:'Open Sans Condensed';
+}
+  
+  main {font-size:25px;
+    font-family: 'Kiwi Maru', serif;
+  }
+  
+body {
+  background-color:#F9E49B;
+  text-align:justify;
+}
+ .cultura {
+    background-color:pink;
+    text-align:justify;
+  }
+  .gastronomía {
+    background-color:#FFA07A;
+    text-align:justify;
+  }
+  .turismo {
+    background-color:#CCFFCC;
+    text-align: justify;
+  }
+p {font-family: 'Lora', serif; 
+text-align: justify;
+line-height: 1.6;
+}
+
+img {
+  width:400px;
+  height:250px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+iframe {
+  width:400px;
+  height:250px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav ul li a {
+    text-decoration:none;
+    color: black;
+}
+a:link, a:visited {
+  background-color: white;
+  color: red;
+  border: 2px solid #A0A0A0;
+  padding: 3px;
+  text-align: center;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: #006EFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
